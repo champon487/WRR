@@ -10,6 +10,8 @@ $$
 \frac{\partial h}{\partial t}+\frac{\partial uh}{\partial x} = 0
 $$
 
+<img src="https://latex.codecogs.com/gif.latex?\int_a^bf(x)dx" />
+
 <img src="https://latex.codecogs.com/gif.latex?\frac{\partial h}{\partial t}+\frac{\partial uh}{\partial x} = 0" />
 
 $$
