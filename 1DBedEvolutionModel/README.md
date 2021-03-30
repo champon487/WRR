@@ -34,3 +34,14 @@ Bed slope       = 0.002 (mild reach), 0.01 (steep reach)
 Grain size      = 2 mm  
 
 [![](https://img.youtube.com/vi/W-FToCP7g84/0.jpg)](https://www.youtube.com/watch?v=W-FToCP7g84)
+
+## Example2: Sedimentation in a dam
+
+Discharge       = 200 m<sup>3</sup>  
+Channel width   = 200 m  
+Manning's n     = 0.03  
+Bed slope       = 0.002  
+Grain size      = 0.2 mm  
+Downstream WL   = 3 m (fixed)
+
+[![](https://img.youtube.com/vi/q0Y_GjS6tMg/0.jpg)](https://www.youtube.com/watch?v=q0Y_GjS6tMg)
