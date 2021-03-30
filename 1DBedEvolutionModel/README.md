@@ -23,3 +23,14 @@ The model deals with bed- and suspended-load transport. The bed evolutaiton is t
 <img src="https://latex.codecogs.com/gif.latex?q_b&space;=&space;4(\theta-\theta_c)^{3/2}\sqrt{Rgd^3}" />
 
 where, &eta;: bed elevation, &theta;: Shields number, &theta;<sub>c</sub>;: criticla Shields number, R: specific weight of sediment in fluid, d: grain size, q<sub>b</sub>: bedload flux, E: entrainment rate, D: deposition rate.
+
+
+## Example1: 1D bed evolution after a cutoff
+
+Discharge       = 200 m<sup>3</sup>  
+Channel width   = 200 m  
+Manning's n     = 0.03  
+Bed slope       = 0.002 (mild reach), 0.01 (steep reach)  
+Grain size      = 2 mm  
+
+[![](https://img.youtube.com/vi/W-FToCP7g84/0.jpg)](https://www.youtube.com/watch?v=W-FToCP7g84)
