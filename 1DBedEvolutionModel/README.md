@@ -12,7 +12,7 @@ $$
 
 <img src="https://latex.codecogs.com/gif.latex?\int_a^bf(x)dx" />
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partialh}{\partialt}+\frac{\partialuh}{\partialx}=0" />
+<img src="https://latex.codecogs.com/gif.latex?\frac{\partial h}{\partial t}+\frac{\partial uh}{\partial x}=0" />
 
 $$
 \frac{\partial u}{\partial t}+u\frac{\partial u}{\partial x} = -g\frac{\partial H}{\partial x} - \frac{gn^2u|u|}{h^{1/3}}
