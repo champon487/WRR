@@ -3,8 +3,8 @@
 g  : 9.81
 nu : 0.000001
 
-q_min  : 100.     # minimun discharge m3/s
-q_max  : 100.     # maximum discharge m3/s
+q_min  : 500.     # minimun discharge m3/s
+q_max  : 500.     # maximum discharge m3/s
 t_q    : 20.      # time from min discharge to maximum discharge (hour)
 chlen  : 2000     # length of river reach (m)
 wid    : 200.      # channel width (m)
